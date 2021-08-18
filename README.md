@@ -80,9 +80,9 @@
 
 <p align="center">
 <a href="https://github.com/mas2000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mas2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mas2000&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mas2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mas2000&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mas2000&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mas2000&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 </p>
 </p>
