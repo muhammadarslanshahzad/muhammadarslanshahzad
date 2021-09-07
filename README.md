@@ -73,7 +73,7 @@
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mas2000&theme=xcode)](https://github.com/mas2000)
+[![Arslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mas2000&theme=xcode)](https://github.com/mas2000)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
