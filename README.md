@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Arslan Shahzad 👋
+# Hi there, I'm Muhammad Arslan Shahzad
 
 ### I'm a Developer!
 - 🔭 I’m currently working as Full Stack Developer
