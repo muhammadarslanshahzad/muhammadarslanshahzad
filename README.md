@@ -67,9 +67,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad-819006162/"><img src="https://img.shields.io/badge/-Muhammad Arslan Shahzad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://img.shields.io/badge/-Muhammad Arslan Shahzad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:masmbdin2000@gmail.com"><img src="https://img.shields.io/badge/-masmbdin2000@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Muhamma49379752"><img src="https://img.shields.io/badge/-@Muhammad Arslan Shahzad-0077B6?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/Shahzad_MArslan"><img src="https://img.shields.io/badge/-@Muhammad Arslan Shahzad-0077B6?style=flat&logo=Twitter&logoColor=white"/></a>
 
 ## Contribution Graph
 
