@@ -62,7 +62,7 @@
 
 <br />
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mas2000" alt="Muhammad Arslan Shahzad" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadarslanshahzad" alt="Muhammad Arslan Shahzad" /> </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -73,16 +73,16 @@
 
 ## Contribution Graph
 
-[![Arslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mas2000&theme=xcode)](https://github.com/mas2000)
+[![Arslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadarslanshahzad&theme=xcode)](https://github.com/mas2000)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/mas2000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mas2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mas2000&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/muhammadarslanshahzad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadarslanshahzad&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mas2000&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslanshahzad&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 </p>
 </p>
