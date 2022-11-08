@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 - :computer: I'm a Machine Learning Engineer who loves learning, developing AI capable softwares, and working on AI projects.
 - :books: I'm undergrad student.
-- :notebook: My fields of interest are Machine Learning, Data Science, Deep Learning, etc.
+- :notebook: My fields of interest are Machine Learning, Artificial Intelligence, Data Science, Deep Learning, etc.
 - :tennis: I enjoy playing badminton.
 
 
