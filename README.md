@@ -1,88 +1,61 @@
-# Hi there, I'm Muhammad Arslan Shahzad
-
-### I'm a Developer!
-- 🔭 I’m currently working as Full Stack Developer
-- 🌱 I’m currently learning Competitive-coding, Machine Learning and AI 
-
-<h2><i>💻 Tech Stack</i></h2>
-
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
-    <td align='center'>
-        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
-    </td>
-    <td align='center'>
-     <img src="https://i.stack.imgur.com/dMXbE.png">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
-</table>
-
-<br />
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadarslanshahzad" alt="Muhammad Arslan Shahzad" /> </p>
-
-## 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://img.shields.io/badge/-Muhammad Arslan Shahzad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:masmbdin2000@gmail.com"><img src="https://img.shields.io/badge/-masmbdin2000@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Shahzad_MArslan"><img src="https://img.shields.io/badge/-@Muhammad Arslan Shahzad-0077B6?style=flat&logo=Twitter&logoColor=white"/></a>
-
-## Contribution Graph
-
-[![Arslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadarslanshahzad&theme=xcode)](https://github.com/mas2000)
-
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
-
-<p align="center">
-<a href="https://github.com/muhammadarslanshahzad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadarslanshahzad&layout=compact&langs_count=8&theme=dark"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslanshahzad&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
+  <img src="assets/githubcover.png" alt="my banner">
 </p>
-</p>
+
+<h3 align="center">
+Hi there👋, I'm Muhammad Arslan Shahzad
+<br>
+Welcome to my Github page!
+</h3>
+
+- :computer: I'm a Machine Learning Engineer who loves learning, developing AI capable softwares, and working on AI projects.
+- :books: I'm undergrad student.
+- :notebook: My fields of interest are Machine Learning, Data Science, Deep Learning, etc.
+- :tennis: I enjoy playing badminton.
+
+
+### 💼 Technical Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+<!-- <h4 align="center">:eyes:</h4> -->
+
+<p align="center"><img src="https://profile-counter.glitch.me/{muhammadarslanshahzad}/count.svg" alt="CemRoot :: Visitor's Count" /></p>
+
+
+<!-- <h4 align="center">Profile Stats:</h4> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,prs" alt="muhammadarslanshahzad :: Profile Stats" /></p>
+
+<!-- <h4 align="center">Top Langs:</h4> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslanshahzad&layout=compact&theme=github_dark" alt="muhammadarslanshahzad :: Top Langs" /></p>
+
+---
+###  Let's connect 💭
+
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Arslan%20Shahzad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-arslan-shahzad/)](https://www.linkedin.com/in/muhammad-arslan-shahzad)
+[![Gmail Badge](https://img.shields.io/badge/muhammadarslanshahzad2000@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadarslanshahzad2000@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-muhammadarslanshahzad-black?style=for-the-badge&logo=github)](https://github.com/muhammadarslanshahzad)
