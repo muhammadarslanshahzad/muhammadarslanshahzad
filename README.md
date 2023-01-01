@@ -1,46 +1,36 @@
+# Muhammad Arslan Shahzad - Machine Learning Engineer
 
-![Header Image](assets/githubcover.png)
+<p align="center">
+  <img src="https://i0.wp.com/erainnovator.com/wp-content/uploads/2020/07/Natural-language-processing.png?resize=930%2C620&ssl=1" alt="NLP Graphic">
+</p>
 
-# Muhammad Arslan Shahzad
+> "Empowering the world through Artificial Intelligence"
 
-## "Empowering the world through machine learning"
+As a machine learning engineer, I am dedicated to using technology to solve real-world problems. My skills include:
 
-I am a fresh ML engineer with expertise in deep learning, computer vision, and NLP. I have a passion for creating machine learning models that can solve real-world problems and improve people's lives.
+## Deep Learning
+- Proficiency in popular deep learning frameworks such as PyTorch and TensorFlow.
+- Experience implementing and training various deep learning models, such as CNNs and RNNs.
 
-## Skills
+## IDEs
+- Proficiency in using IDEs such as Jupyter Notebooks and Google Colab for prototyping and testing ML models.
 
-### Deep Learning
+## Cloud (Azure)
+- Experience with Microsoft Azure and able to deploy ML models on the cloud for easy access and scalability.
 
-[![TensorFlow](tensorflow_logo.png)](https://www.tensorflow.org) [![PyTorch](pytorch_logo.png)](https://pytorch.org)
+## Computer Vision
+- Worked on several computer vision projects, including image classification and object detection.
 
-### Computer Vision
+## NLP
+- Experience with NLP tasks such as text classification and language translation.
 
-[![OpenCV](opencv_logo.png)](https://opencv.org) [![scikit-image](scikit_image_logo.png)](https://scikit-image.org)
-
-### NLP
-
-[![NLTK](nltk_logo.png)](https://www.nltk.org) [![spaCy](spacy_logo.png)](https://spacy.io)
-
-### Python
-
-[![NumPy](numpy_logo.png)](https://numpy.org) [![pandas](pandas_logo.png)](https://pandas.pydata.org) [![scikit-learn](scikit_learn_logo.png)](https://scikit-learn.org)
-
-### Deployment
-
-[![Docker](docker_logo.png)](https://www.docker.com) [![Kubernetes](kubernetes_logo.png)](https://kubernetes.io)
-
-### IDEs
-
-[![Jupyter](jupyter_logo.png)](https://jupyter.org) [![PyCharm](pycharm_logo.png)](https://www.jetbrains.com/pycharm)
-
-### Cloud Technologies
-
-[![AWS](aws_logo.png)](https://aws.amazon.com) [![GCP](gcp_logo.png)](https://cloud.google.com) [![Azure](azure_logo.png)](https://azure.microsoft.com)
-
-## GitHub Analytics
-
-![GitHub Analytics](analytics.png)
+## Deployment
+- Experience deploying ML models as web applications using Flask and React.
 
 ## Contact
 
-[![Gmail](gmail_logo.png)](mailto:muhammadarslanshahzad2000@gmail.com) [![Twitter](twitter_logo.png)]([https://twitter.com/myhandle](https://twitter.com/Shahzad_MArslan)) [![LinkedIn](linkedin_logo.png)](https://www.linkedin.com/in/muhammad-arslan-shahzad/)
+Reach out to me on:
+- Email: [muhammadarslanshahzad2000@gmail.com](mailto:muhammadarslanshahzad2000@gmail.com)
+- LinkedIn: [Muhammad Arslan Shahzad](https://www.linkedin.com/in/muhammad-arslan-shahzad/)
+- Twitter: [@Shahzad_MArslan](https://twitter.com/Shahzad_MArslan)
+
