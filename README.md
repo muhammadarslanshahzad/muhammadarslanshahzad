@@ -7,7 +7,7 @@
 
 # Muhammad Arslan Shahzad | ML Engineer
 
-> Making meaningful contributions to society through AI
+> **Making meaningful contributions to society through AI**
 
 I am a highly motivated ML engineer with a strong passion for using artificial intelligence, machine learning, deep learning, computer vision, and natural language processing to make a positive impact on society. I have a solid foundation in these areas and am always looking to expand my knowledge and skills. Eager to begin my career and contribute my expertise to meaningful projects that make a difference. I am a quick learner and thrive in dynamic environments where I can constantly learn and grow.
 
