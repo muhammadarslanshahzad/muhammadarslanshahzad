@@ -1,34 +1,44 @@
-# Muhammad Arslan Shahzad - Machine Learning Engineer
 
 <p align="center">
-  <img src="https://i0.wp.com/erainnovator.com/wp-content/uploads/2020/07/Natural-language-processing.png?resize=930%2C620&ssl=1" alt="NLP Graphic">
+  <img src="https://img.freepik.com/premium-vector/ai-infographic-banner_35632-92.jpg?w=2000" alt="NLP Graphic">
 </p>
 
-> "Empowering the world through Artificial Intelligence"
+<!-- ![AI, NLP, CV, ML banner]((https://img.freepik.com/premium-vector/ai-infographic-banner_35632-92.jpg?w=2000)) -->
 
-As a machine learning engineer, I am dedicated to using technology to solve real-world problems. My skills include:
+# Muhammad Arslan Shahzad | ML Engineer
 
-## Deep Learning
-- Proficiency in popular deep learning frameworks such as PyTorch and TensorFlow.
-- Experience implementing and training various deep learning models, such as CNNs and RNNs.
+> Making meaningful contributions to society through AI
 
-## IDEs
-- Proficiency in using IDEs such as Jupyter Notebooks and Google Colab for prototyping and testing ML models.
+I am a highly motivated ML engineer with a strong passion for using artificial intelligence, machine learning, deep learning, computer vision, and natural language processing to make a positive impact on society. I have a solid foundation in these areas and am always looking to expand my knowledge and skills. Eager to begin my career and contribute my expertise to meaningful projects that make a difference. I am a quick learner and thrive in dynamic environments where I can constantly learn and grow.
 
-## Cloud (Azure)
-- Experience with Microsoft Azure and able to deploy ML models on the cloud for easy access and scalability.
+- 🔭 Currently working on:
+    - Deep learning and computer vision projects
+- 🌱 Currently learning:
+    - Natural language processing
+- 👯 Collaborating on:
+    - Hackathons and AI competitions
+- 🤔 Looking for help with:
+    - Anything related to my skills and interests
+- 💬 Ask me about:
+    - Artificial intelligence and machine learning techniques
+    - Computer vision and image processing
+    - Natural language processing
+- 🎮 Hobbies:
+    - Riding superbikes
+    - Playing badminton
 
-## Computer Vision
-- Worked on several computer vision projects, including image classification and object detection.
+## Skills
+- 🤖 Artificial intelligence and machine learning: TensorFlow, PyTorch, scikit-learn
+- 🔍 Data preparation and preprocessing: pandas, NumPy, scikit-learn
+- 📷 Computer vision: OpenCV, scikit-image, Pillow
+- 🗣 Natural language processing: NLTK, spaCy, Gensim
+- 💻 Languages: Python, C++, JavaScript
+- 💻 IDEs: PyCharm, Jupyter Notebook, Anaconda
+- 📦 Deployment: Azure, Heroku
+- 🌐 Web development: Flask, ReactJS
 
-## NLP
-- Experience with NLP tasks such as text classification and language translation.
-
-## Deployment
-- Experience deploying ML models as web applications using Flask and React.
 
 ## Contact
-
 Reach out to me on:
 - Email: [muhammadarslanshahzad2000@gmail.com](mailto:muhammadarslanshahzad2000@gmail.com)
 - LinkedIn: [Muhammad Arslan Shahzad](https://www.linkedin.com/in/muhammad-arslan-shahzad/)
