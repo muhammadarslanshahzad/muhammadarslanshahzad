@@ -40,7 +40,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
 
 ## Contact
 Reach out to me on:
-- Email: [muhammadarslanshahzad2000@gmail.com](mailto:muhammadarslanshahzad2000@gmail.com)
+- Email: [themuhammadarslanshahzad@gmail.com](mailto:themuhammadarslanshahzad@gmail.com)
 - LinkedIn: [Muhammad Arslan Shahzad](https://www.linkedin.com/in/muhammad-arslan-shahzad/)
 - Twitter: [@Shahzad_MArslan](https://twitter.com/Shahzad_MArslan)
 
