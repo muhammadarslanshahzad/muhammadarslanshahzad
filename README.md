@@ -82,37 +82,10 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
     </td>
     <td align='center' widht='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+             <img src="https://www.svgrepo.com/show/452192/docker.svg"/>
     </td>
   </tr>
-  <tr>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  
-    </td>
-    <td align='center' width='190'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' />
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </td>
-    <td align='center' width='190'>
-      <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    </td>
-    <td align='center' width='190'>       
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-    </td>
-  </tr>
+  
   <tr>
     <td align='center' width='190'>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1024px-SpaCy_logo.svg.png"/>
@@ -127,12 +100,53 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
       <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/>
     </td>
   </tr>
-   
+   <tr>
+     <td align='center' width='190'>
+       <img src="https://www.svgrepo.com/show/452210/git.svg" />
+     </td>
+     <td align='center' width='190'>
+       <img src="https://www.svgrepo.com/show/512317/github-142.svg">
+     </td>
+     <td align='center' width='190'>
+       <img src="https://cdn.invicti.com/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png"/>
+     </td>
+     <td align='center' width='190'>
+                 <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png"/>
+     </td>
+   </tr>
+  <tr>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  
+    </td>
+    <td align='center' width='190'>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' />
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </td>
+    <td align='center' width='190'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    </td>
+    <td align='center' width='190'>       
+            <img src="https://www.svgrepo.com/show/499816/database.svg"/>
+    </td>
+  </tr>
 </table>
 
-## Contact
-Reach out to me on:
-- Email: [marslanshahzad14@gmail.com](mailto:marslanshahzad14@gmail.com)
-- LinkedIn: [Muhammad Arslan Shahzad](https://www.linkedin.com/in/muhammad-arslan-shahzad/)
-- Twitter: [@Shahzad_MArslan](https://twitter.com/Shahzad_MArslan)
-
+<h2>Connect with Me</h2>
+<p align='center'>
+<a href="mailto:marslanshahzad14@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='50' height='50'/></a>
+<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='50' height='50' /></a>
+<a href="https://twitter.com/Shahzad_MArslan"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='50' height='50' /></a>
+</p>
