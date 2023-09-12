@@ -29,7 +29,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
 
 <h2>My Tech Stack</h2>
 <table width="100%">
-  <tr>
+  <tr  height="250">
     <td align='center' width="238">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     </td>
@@ -57,7 +57,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
         <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
     </td>
   </tr>
-   <tr>
+   <tr  height="250">
     <td align='center' width="190">
         <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
     </td>
@@ -71,7 +71,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </td>
   </tr>
-  <tr>
+  <tr  height="250">
     <td align='center' widht='190'>
       <img src="https://www.svgrepo.com/show/373568/dvc.svg"/>
     </td>
@@ -86,7 +86,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
     </td>
   </tr>
   
-  <tr>
+  <tr  height="250">
     <td align='center' width='190'>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1024px-SpaCy_logo.svg.png"/>
     </td>
@@ -100,7 +100,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
       <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/>
     </td>
   </tr>
-   <tr>
+   <tr  height="250">
      <td align='center' width='190'>
        <img src="https://www.svgrepo.com/show/452210/git.svg" />
      </td>
@@ -114,21 +114,21 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
                  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png"/>
      </td>
    </tr>
-  <tr>
+  <tr  height="250">
     <td align='center' width='190'>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  
     </td>
     <td align='center' width='190'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' />
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png'  height ="180"  width ="180"/>
     </td>
     <td align='center' width='190'>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </td>
     <td align='center' width='190'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
     </td>
   </tr>
-  <tr>
+  <tr  height="250">
     <td align='center' width='190'>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     </td>
