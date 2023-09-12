@@ -5,9 +5,9 @@
 
 <!-- ![AI, NLP, CV, ML banner]((https://img.freepik.com/premium-vector/ai-infographic-banner_35632-92.jpg?w=2000)) -->
 
-# Muhammad Arslan Shahzad | ML Engineer
+<h1>Muhammad Arslan Shahzad | ML Engineer</h1>
 
-> **Making meaningful contributions to society through AI**
+<blockquote><strong>Making meaningful contributions to society through AI </strong></blockquote>
 
 I am a highly motivated ML engineer with a strong passion for using artificial intelligence, machine learning, deep learning, computer vision, and natural language processing to make a positive impact on society. I have a solid foundation in these areas and am always looking to expand my knowledge and skills. Eager to begin my career and contribute my expertise to meaningful projects that make a difference. I am a quick learner and thrive in dynamic environments where I can constantly learn and grow.
 
@@ -20,23 +20,115 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
 - 🤔 Looking for help with:
     - Anything related to my skills and interests
 - 💬 Ask me about:
-    - Artificial intelligence and machine learning techniques
+    - AI/ML and Deep Learning techniques
     - Computer vision and image processing
     - Natural language processing
 - 🎮 Hobbies:
     - Riding superbikes
     - Playing badminton
 
-## Skills
-- 🤖 Artificial intelligence and machine learning: TensorFlow, PyTorch, scikit-learn
-- 🔍 Data preparation and preprocessing: pandas, NumPy, scikit-learn
-- 📷 Computer vision: OpenCV, scikit-image, Pillow
-- 🗣 Natural language processing: NLTK, spaCy, Gensim
-- 💻 Languages: Python, C++, JavaScript
-- 💻 IDEs: PyCharm, Jupyter Notebook, Anaconda
-- 📦 Deployment: Azure, Heroku
-- 🌐 Web development: Flask, ReactJS
-
+<h2>My Tech Stack</h2>
+<table width="100%">
+  <tr>
+    <td align='center' width="238">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </td>
+    <td align='center' width="237">
+         <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/>
+    </td>
+    <td align='center' width="238">
+        <img src="https://seeklogo.com/images/P/pytorch-logo-6A2163C10D-seeklogo.com.png" />
+    </td>
+    <td align='center' width="237">
+        <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
+    </td>
+  </tr>
+   <tr>
+    <td align='center' width="190">
+        <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
+    </td>
+    <td align='center' width="190">
+         <img src="https://seeklogo.com/images/N/numpy-logo-EF04157F19-seeklogo.com.png"/>
+    </td>
+    <td align='center' width="190">
+        <img src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />
+    </td>
+    <td align='center' width="190">
+        <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
+    </td>
+  </tr>
+   <tr>
+    <td align='center' width="190">
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+    </td>
+    <td align='center' width="190">
+      <img src="https://seeklogo.com/images/O/opencv-logo-A38F97FD2C-seeklogo.com.png" />
+    </td>
+    <td align='center' width='190'>
+      <img src="https://www.svgrepo.com/show/373541/cuda.svg"/>
+    </td>
+    <td align='center' width='190'>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align='center' widht='190'>
+      <img src="https://www.svgrepo.com/show/373568/dvc.svg"/>
+    </td>
+    <td align='center' widht='190'>
+      <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png"/>
+    </td>
+    <td align='center' widht='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+    </td>
+    <td align='center' widht='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  
+    </td>
+    <td align='center' width='190'>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' />
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </td>
+    <td align='center' width='190'>
+      <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
+    </td>
+    <td align='center' width='190'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    </td>
+    <td align='center' width='190'>       
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width='190'>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1024px-SpaCy_logo.svg.png"/>
+    </td>
+    <td align='center' width='190'>
+      <img src="https://miro.medium.com/v2/resize:fit:1184/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png"/>
+    </td>
+    <td align='center' width='190'>
+      <img src="https://static.thenounproject.com/png/1503825-200.png"/>
+    </td>
+    <td align='center' width='190'>
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/>
+    </td>
+  </tr>
+   
+</table>
 
 ## Contact
 Reach out to me on:
