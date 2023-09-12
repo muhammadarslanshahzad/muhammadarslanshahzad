@@ -12,9 +12,9 @@
 I am a highly motivated ML engineer with a strong passion for using artificial intelligence, machine learning, deep learning, computer vision, and natural language processing to make a positive impact on society. I have a solid foundation in these areas and am always looking to expand my knowledge and skills. Eager to begin my career and contribute my expertise to meaningful projects that make a difference. I am a quick learner and thrive in dynamic environments where I can constantly learn and grow.
 
 - 🔭 Currently working on:
-    - Deep learning and computer vision projects
+    - Deep learning, computer vision and NLP projects
 - 🌱 Currently learning:
-    - Natural language processing
+    - Generative AI and LLM's
 - 👯 Collaborating on:
     - Hackathons and AI competitions
 - 🤔 Looking for help with:
