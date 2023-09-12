@@ -43,7 +43,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
         <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
     </td>
   </tr>
-   <tr>
+   <tr  height="250">
     <td align='center' width="190">
         <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
     </td>
