@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/futuristic-artificial-intelligence-face-technology-background_1017-18295.jpg?w=2000&t=st=1694504076~exp=1694504676~hmac=240f3e55e99215e98f69976f972075a7892f546d9eedb122b0c00098a9d1bbfd" alt="NLP Graphic" height =400>
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/12/AR@2x.png" alt="NLP Graphic" height =400>
 </p>
 
 <!-- ![AI, NLP, CV, ML banner]((https://img.freepik.com/premium-vector/ai-infographic-banner_35632-92.jpg?w=2000)) -->
