@@ -24,7 +24,7 @@ I am a highly motivated ML engineer with a strong passion for using artificial i
     - Computer vision and image processing
     - Natural language processing
 - 🎮 Hobbies:
-    - Riding superbikes
+    - Reading Books (Atomic Habits, Eat that frog rich dad poor dad, and other finance realated)
     - Playing badminton
 
 <h2>My Tech Stack</h2>
