@@ -5,6 +5,7 @@
 <h1 align="center">Heya 👋, I'm Muhammad Arslan Shahzad</h1>
 
 <h4 align="center">Machine Learning Engineer | Sculpting Data into Solutions </h4>
+
 ---
 
 ## 💫 About Me:
@@ -24,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/sloth.png" alt="C" width="25" height="25" />&nbsp;&nbsp;You can catch me buried in books like *Atomic Habits*, *Eat That Frog!*, or nerding out over finance with *Rich Dad Poor Dad*. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/game-controller.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Playing badminton and forgetting about bugs for a while. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/joystick.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Playing badminton and forgetting about bugs for a while. <br>
 </p>
 
 ---
