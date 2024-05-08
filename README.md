@@ -1,152 +1,59 @@
+<p align="center"><img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/header.jpeg" width="1380px" height="180px"></p>
 
-<p align="center">
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/12/AR@2x.png" alt="NLP Graphic" height =400>
-</p>
+<h2 align="left">Hola 👋, I'm Muhammad Arslan Shahzad</h2>
+# 💫 About Me:
+---
+<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="40%" height="40%" align="right">
+🔭 **Working on:**  
+   👉 Tackling projects in deep learning, computer vision, and NLP. Always coding something cool!
 
-<!-- ![AI, NLP, CV, ML banner]((https://img.freepik.com/premium-vector/ai-infographic-banner_35632-92.jpg?w=2000)) -->
 
-<h1>Muhammad Arslan Shahzad | ML Engineer</h1>
+🌱 **Learning:**  
+   👉 Diving into the world of Generative AI and big-brained LLMs—it’s wild stuff!
 
-<blockquote><strong>Making meaningful contributions to community through application of AI </strong></blockquote>
 
-I am a highly motivated ML engineer with a strong passion for using artificial intelligence, machine learning, deep learning, computer vision, and natural language processing to make a positive impact on society. I have a solid foundation in these areas and am always looking to expand my knowledge and skills. Eager to begin my career and contribute my expertise to meaningful projects that make a difference. I am a quick learner and thrive in dynamic environments where I can constantly learn and grow.
+👯 **Collaborating:**  
+   👉 Hit me up for hackathons and AI competitions. Let’s make something awesome together!
 
-- 🔭 Currently working on:
-    - Deep learning, computer vision and NLP projects
-- 🌱 Currently learning:
-    - Generative AI and LLM's
-- 👯 Collaborating on:
-    - Hackathons and AI competitions
-- 🤔 Looking for help with:
-    - Anything related to my skills and interests
-- 💬 Ask me about:
-    - AI/ML and Deep Learning techniques
-    - Computer vision and image processing
-    - Natural language processing
-- 🎮 Hobbies:
-    - Reading Books (Atomic Habits, Eat that frog rich dad poor dad, and other finance realated)
-    - Playing badminton
 
-<h2>My Tech Stack</h2>
-<table width="100%">
-  <tr  height="250">
-    <td align='center' width="238">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    </td>
-    <td align='center' width="237">
-         <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/>
-    </td>
-    <td align='center' width="238">
-        <img src="https://seeklogo.com/images/P/pytorch-logo-6A2163C10D-seeklogo.com.png" />
-    </td>
-    <td align='center' width="237">
-        <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
-    </td>
-  </tr>
-   <tr  height="250">
-    <td align='center' width="190">
-        <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
-    </td>
-    <td align='center' width="190">
-         <img src="https://seeklogo.com/images/N/numpy-logo-EF04157F19-seeklogo.com.png"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
-    </td>
-  </tr>
-   <tr  height="250">
-    <td align='center' width="190">
-        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
-    </td>
-    <td align='center' width="190">
-      <img src="https://seeklogo.com/images/O/opencv-logo-A38F97FD2C-seeklogo.com.png" />
-    </td>
-    <td align='center' width='190'>
-      <img src="https://www.svgrepo.com/show/373541/cuda.svg"/>
-    </td>
-    <td align='center' width='190'>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    </td>
-  </tr>
-  <tr  height="250">
-    <td align='center' widht='190'>
-      <img src="https://www.svgrepo.com/show/373568/dvc.svg"/>
-    </td>
-    <td align='center' widht='190'>
-      <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png"/>
-    </td>
-    <td align='center' widht='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-    </td>
-    <td align='center' widht='190'>
-             <img src="https://www.svgrepo.com/show/452192/docker.svg"/>
-    </td>
-  </tr>
-  
-  <tr  height="250">
-    <td align='center' width='190'>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1024px-SpaCy_logo.svg.png"/>
-    </td>
-    <td align='center' width='190'>
-      <img src="https://miro.medium.com/v2/resize:fit:1184/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png"/>
-    </td>
-    <td align='center' width='190'>
-      <img src="https://static.thenounproject.com/png/1503825-200.png"/>
-    </td>
-    <td align='center' width='190'>
-      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/>
-    </td>
-  </tr>
-   <tr  height="250">
-     <td align='center' width='190'>
-       <img src="https://www.svgrepo.com/show/452210/git.svg" />
-     </td>
-     <td align='center' width='190'>
-       <img src="https://www.svgrepo.com/show/512317/github-142.svg">
-     </td>
-     <td align='center' width='190'>
-       <img src="https://cdn.invicti.com/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png"/>
-     </td>
-     <td align='center' width='190'>
-                 <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png"/>
-     </td>
-   </tr>
-  <tr  height="250">
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  
-    </td>
-    <td align='center' width='190'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png'  height ="180"  width ="180"/>
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </td>
-    <td align='center' width='190'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
-    </td>
-  </tr>
-  <tr  height="250">
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
-    </td>
-    <td align='center' width='190'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    </td>
-    <td align='center' width='190'>       
-            <img src="https://www.svgrepo.com/show/499816/database.svg"/>
-    </td>
-  </tr>
-</table>
+🤔 **Need Help?**  
+   👉 If it’s about AI, machine learning, or anything techy, I’m your guy.
 
-<h2>Connect with Me</h2>
-<p align='center'>
-<a href="mailto:marslanshahzad14@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='50' height='50'/></a>
-<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='50' height='50' /></a>
-<a href="https://twitter.com/Shahzad_MArslan"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='50' height='50' /></a>
-</p>
+
+💬 **Ask Me Anything About:**  
+   👉 AI/ML, deep learning hacks, seeing through computers’ eyes, or teaching machines to chat.
+
+
+📚 **Just for Fun:**  
+   👉 You can catch me buried in books like *Atomic Habits*, *Eat That Frog!*, or nerding out over finance with *Rich Dad Poor Dad*.
+
+
+🏸 **Chill Mode:**  
+   👉 Playing badminton and forgetting about bugs for a while.
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadarslan.shahzad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-arslan-shahzad/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadarslanshahzad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22744995/muhammad-arslan-shahzad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shahzad_MArslan/)
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslanshahzad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslanshahzad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadarslanshahzad&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadarslanshahzad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+![](https://komarev.com/ghpvc/?username=muhammadarslanshahzad)
