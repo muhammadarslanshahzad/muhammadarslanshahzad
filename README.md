@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Heya 👋, I'm Muhammad Arslan Shahzad</h1>
+<h1 align="center">Hola 👋, I'm Muhammad Arslan Shahzad</h1>
 
 <h4 align="center">Machine Learning Engineer | Sculpting Data into Solutions </h4>
 
