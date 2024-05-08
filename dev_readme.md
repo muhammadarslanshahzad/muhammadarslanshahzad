@@ -26,6 +26,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/game-controller.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Playing badminton and forgetting about bugs for a while. <br>
 </p>
+
 ---
 
 ### 🌐 Socials:
