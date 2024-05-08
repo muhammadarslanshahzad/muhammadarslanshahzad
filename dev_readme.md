@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
+<p align="center"><img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/header.jpeg" width="1380px" height="180px"></p>
 
 <h2 align="left">Heya 👋, I'm Muhammad Arslan Shahzad</h2>
 # 💫 About Me:
