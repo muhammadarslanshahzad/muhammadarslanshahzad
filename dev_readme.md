@@ -1,119 +1,58 @@
-<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
+<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
 
-<!--https://i.imgur.com/9GNZGLH.gif
-
--->
-
-### Hey there 👋 My name is Muhammad Arslan Shahzad! 
-
-**Profile Visitors:** 
-
-![](https://komarev.com/ghpvc/?username=muhammadarslanshahzad&style=flat-square)
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-I am an AI/ML Engineer Currently working on the GenAI stack and trainig GPT on custom bsuiness problem.
- 
-
-🌱 **I’m currently exploring:** Generative AI
-
-🔭 **I’m currently working on:** Building applications with Genative AI and LLMs
-
-💬 **Ask me about** Python, Machine Learning, memes, Badminton and a good playlist🎧
-
-⚡ **Fun fact:** Coding Bugs were NOT named after an actual bug.
-
-💻 **Code carousel:** "saippuakivikauppias".That's the world's longest palindrome word which is used by Finnish people daily. And here you're not even able to pronounce it😂
-
-📄 **Resume** : [Click to view](https://google.com)
-
-**We can connect over:**
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/muhammad-arslan-shahzad/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Shahzad_MArslan) 
-
-### Languages and Tools
-
-
-| Python | Sklearn | C++ | TensoFlow | Tableau |
-| :---: | :---: | :---: | :---: | :---: |
-
-
-| Selenium | C | SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Flask | NLTK | Spacy | AWS Machine Learning | Data Analysis |
-| :---: | :---: | :---: | :---: | :---: |
-
-
-![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslanshahzad&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<h2 align="left">Heya 👋, I'm Muhammad Arslan Shahzad</h2>
 # 💫 About Me:
-- 🔭 I’m currently working on 
-	- [Optics Instrumentation / Test Automation](https://www.averna.com/). *Closed-source*
-- :sparkler: I previously worked on
-   - [Test Automation Framework - Windows Desktop](https://www.ipgphotonics.com/). *Not hosted at GitHub*
-- 🤝 I’m currently collaborating with
-   - :robot: [Artifice Research](https://huggingface.co/theartifice) as Computer Vision developer 
-   - :crown: [Reyes Group](https://reyesgroup.tech/) as Software Development Consultant
--  🌱 I’m currently learning [NixOS](https://nixos.org/) <iconify-icon icon="mdi:nix"></iconify-icon>
+---
+<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="40%" height="40%" align="right">
+🔭 **Working on:**  
+   👉 Tackling projects in deep learning, computer vision, and NLP. Always coding something cool!
 
-- :books: I previously collaborated with:
-   - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
-   - [OpenMined Courses](https://courses.openmined.org/) Cryptography content 
-   - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
 
-# 💻 Tech Stack:
+🌱 **Learning:**  
+   👉 Diving into the world of Generative AI and big-brained LLMs—it’s wild stuff!
 
-1. **Operating Systems**:
-   - ![NixOS Badge](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=flat-square)
-   - ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-   - ![Windows Badge](<https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square>)
 
-2. **Programming**:
-   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) **:{** ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white), ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white), ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) **}**
-   - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-   - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-   - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+👯 **Collaborating:**  
+   👉 Hit me up for hackathons and AI competitions. Let’s make something awesome together!
 
-3. **Technical Writing**:
-   - ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-   - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-   - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-   - ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-4. **Version Control**:
-   - ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
-   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-   - ![Subversion Badge](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff&style=flat-square)
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslanshahzad&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslanshahzad&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true)
+🤔 **Need Help?**  
+   👉 If it’s about AI, machine learning, or anything techy, I’m your guy.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadarslanshahzad&theme=onedark&no-frame=true&no-bg=false&margin-w=4&rank=-B,-C&row=2&column=3)
+
+💬 **Ask Me Anything About:**  
+   👉 AI/ML, deep learning hacks, seeing through computers’ eyes, or teaching machines to chat.
+
+
+📚 **Just for Fun:**  
+   👉 You can catch me buried in books like *Atomic Habits*, *Eat That Frog!*, or nerding out over finance with *Rich Dad Poor Dad*.
+
+
+🏸 **Chill Mode:**  
+   👉 Playing badminton and forgetting about bugs for a while.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=salgadev&icon=1&color=6)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadarslan.shahzad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-arslan-shahzad/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadarslanshahzad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22744995/muhammad-arslan-shahzad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shahzad_MArslan/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadarslanshahzad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadarslanshahzad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslanshahzad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadarslanshahzad&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadarslanshahzad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+![](https://komarev.com/ghpvc/?username=muhammadarslanshahzad)
