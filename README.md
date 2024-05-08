@@ -14,18 +14,20 @@
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="50%" height="50%" align="right">
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/working.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Tackling projects in deep learning, computer vision, NLP & LLMs. Always coding something cool! <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/nlp.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Upskilling into the world of Gen-AI and RAGs! <br>
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/working.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Tackling projects in deep learning, computer vision, NLP & LLMs. Always coding something cool! <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/coding.png" alt="C" width="25" height="25" />&nbsp;&nbsp;If it’s about AI, machine learning, or anything techy, I’m your guy. <br>
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/nlp.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Upskilling into the world of Gen-AI and RAGs! <br>
+
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/coding.png" alt="C" width="25" height="25" />&nbsp;&nbsp;If it’s about AI, machine learning, or anything techy, I’m your guy. <br>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/collaboration.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Hit me up for hackathons and AI competitions. Let’s make something awesome together! <br>
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/collaboration.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Hit me up for hackathons and AI competitions. Let’s make something awesome together! <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/sloth.png" alt="C" width="25" height="25" />&nbsp;&nbsp;You can catch me buried in books like *Atomic Habits*, *Eat That Frog!*, or nerding out over finance with *Rich Dad Poor Dad*. <br>
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/sloth.png" alt="C" width="25" height="25" />&nbsp;&nbsp;You can catch me buried in books like *Atomic Habits*, *Eat That Frog!*, or nerding out over finance with *Rich Dad Poor Dad*. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/joystick.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Playing badminton and forgetting about bugs for a while. <br>
+<img src="https://github.com/muhammadarslanshahzad/muhammadarslanshahzad/blob/main/assets/icons/joystick.png" alt="C" width="25" height="25" />&nbsp;&nbsp;Playing badminton and forgetting about bugs for a while. <br>
+
 </p>
 
 ---
